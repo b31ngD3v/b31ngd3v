@@ -1,6 +1,6 @@
 ### ⌨️ Talk is cheap show me the code
 
-- 🔭 I’m currently working on **application**
+- 🔭 I’m currently working on **app development**
 - 🌱 I’m currently learning **react native**
 - 👯 I’m looking to collaborate on **Any Platform**
 - 💬 Ask me about **Anything**
